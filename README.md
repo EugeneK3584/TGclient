@@ -4,4 +4,4 @@ Completely customizable
 Please send me a request for full code access
 
  1. Example and structure overview <br>
- ([[https://youtu.be/9APNx15A-dQ](https://www.youtube.com/watch?v=2yxfjEfxPMI)]
+ ([https://youtu.be/9APNx15A-dQ](https://www.youtube.com/watch?v=2yxfjEfxPMI))
