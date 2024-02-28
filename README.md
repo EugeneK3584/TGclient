@@ -19,13 +19,13 @@ Please send me a request for full code access or beta testing
 ### Original signal
 ```
 Text and some extra content >>>>> BTC[USDT]
-LONG[SHORT]  [1.38] [market] [limit]
+LONG[SHORT]  [9999] [market] [limit]
 [Leverage] [X10]
 Take|TP|TARGET 1  <> 10000
 Take|TP|TARGET 2  <> 20000
 Take|TP|TARGET 3  <> 30000
 Take|TP|TARGET 4  <> 40000
-SL|Stop : 500
+SL|Stop : 9988
 <<<<< Text
 ```
 
