@@ -3,7 +3,7 @@
 
 ## The goal of this project
 
-<br>This app is created to enable copy on FX/Crypto from Telegram groups/channels with Telethon in async i/o mode.
+<br>This app is created to enable copytrading on FX/Crypto markets using signals from Telegram groups/channels. It works with Telethon Python lib in async i/o mode.
 Completely customizable.<br>
 Please send me a request for full code access or beta testing
 
